@@ -1,5 +1,6 @@
 juhnjlkm,/llkjl.m
 lkm,:
+<<<<<<< HEAD
 kljkldf;okdxv
 
 
@@ -9,4 +10,16 @@ kkkkkkkkkkc
 
 
 lllllllllllllllllllllllllllllllllll
-kkkkkkk
+kkkkkk
+
+k
+kljkldf;okdxvc
+
+kljkldf;okdxvc
+
+11111
+22222222
+=======
+
+
+>>>>>>> d32b33f160ac8989455b78240b4812b53b1304b1
